@@ -751,11 +751,11 @@ textarea.input100 {
   line-height: 1.5;
 }
 
-.benefit-list::before {
+.aboutUs-image::before {
   content: '';
   position: absolute;
   background: radial-gradient(circle at 3px 3px, #15b3ec2a 3px, transparent 3px);
-  right: 40%;
+  right: 50%;
   top: 0;
   height: 100%;
   width: 100%;
