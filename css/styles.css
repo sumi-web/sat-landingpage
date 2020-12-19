@@ -754,8 +754,8 @@ textarea.input100 {
 .benefit-list::before {
   content: '';
   position: absolute;
-  background: radial-gradient(circle at 3px 3px, #ad62aa36 3px, transparent 3px);
-  right: 0;
+  background: radial-gradient(circle at 3px 3px, #15b3ec2a 3px, transparent 3px);
+  right: 40%;
   top: 0;
   height: 100%;
   width: 100%;
