@@ -1213,6 +1213,10 @@ textarea.input100 {
 }
 
 @media(max-width:576px) {
+  .main-section {
+    height: 100vh;
+  }
+
   .main-section .effect-round.bottom {
     display: none;
   }
